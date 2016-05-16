@@ -1,0 +1,18 @@
+header {
+    color: blue;
+    font-size: 20px;
+}
+.fantastic {
+    font-family: fantasy;
+    color: #0082FF;
+    font-size: 36px;
+}
+
+.fantastic.awesome {
+    font-size: 50;
+}
+
+p > em {
+    color:red;
+}
+
